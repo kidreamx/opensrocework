@@ -7,7 +7,8 @@
 >> CLI 어플리케이션은 App center 서비스를 사용하고 실행할 명령 시퀀스를 스크립팅하는 도구이다.
 >> 또한 top 명령어는 메모리 사용량, CPU사용량등을 나타내주며 top이 실행되는 동안 주기적으로 업데이트를 해줘서 실시간으로 확인 가능하다.
 >>
->>  !<img src= "https://user-images.githubusercontent.com/105635950/170813632-cea6a599-caca-4bc5-a632-c7af30299ca7.png" width ="30%" height ="30%"/>
+>> <img src= "https://user-images.githubusercontent.com/105635950/170813632-cea6a599-caca-4bc5-a632-c7af30299ca7.png" width ="75%" height ="75%"/>
+>> 
 >> 이렇게 제 컴퓨터의 실시간 os의 상태를 알수 있다. 이제 이 그림에 대한 설명을 할것이다. 
 >> 맨 첫줄 의 절반은 시스템의 현재 시간과 os가 살아있는 시간과 유저 세션수를 순서대로 표시해 놓은것 이다.
 >> 그리고 다음은 load Average구간으로 CPU load의 이동 평균을 표시하는 영역이다.
